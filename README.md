@@ -1,4 +1,5 @@
 ## Deploy Django Project to Heroku
+### Video Tutorial: https://youtu.be/_3AKAdHUY1M
 1. Create Heroku Account : https://www.heroku.com/
 2. Download and Install Git : https://git-scm.com/downloads
 3. Download and Install Heroku CLI : https://devcenter.heroku.com/articles/heroku-cli#download-and-install
