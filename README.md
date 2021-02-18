@@ -100,7 +100,7 @@
 ## Common Error while Deploying
 Error 1: django-assets rejected <br>
 Cause: You haven't specified STATIC_ROOT <br>
-Solution: Either Provide STATIC_ROOT or Disable it bu running heroku config:set DISABLE_COLLECTSTATIC=1 <br>
+Solution: Either Provide STATIC_ROOT or Disable it bu running **heroku config:set DISABLE_COLLECTSTATIC=1** <br>
 
 
 Error 2: No web processes running <br>
